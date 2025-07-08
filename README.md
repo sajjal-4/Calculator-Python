@@ -10,5 +10,5 @@ This project allows users to perform basic calculations through a command-line i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
-   cd simple-calculator
+   git clone https://github.com/yourusername/Calculator-Python.git
+   cd Calculator-Python
