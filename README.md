@@ -12,3 +12,7 @@ This project allows users to perform basic calculations through a command-line i
    ```bash
    git clone https://github.com/yourusername/Calculator-Python.git
    cd Calculator-Python
+
+2. Run the code:
+   ```bash
+   python Calculator-Python.py
