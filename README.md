@@ -15,4 +15,4 @@ This project allows users to perform basic calculations through a command-line i
 
 2. Run the code:
    ```bash
-   python Calculator-Python.py
+   python main.py
